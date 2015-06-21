@@ -28,6 +28,8 @@ public class B {
 
     public float getB2() {
         return B2;
+       
+        
     }
 
     public void setB2(float B2) {
