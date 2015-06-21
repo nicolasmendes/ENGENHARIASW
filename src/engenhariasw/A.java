@@ -13,8 +13,18 @@ public class A {
         this.A1 = A1;
     }
 
-    private float A2;
+    private String A3;
 
+    public String getA3() {
+        return A3;
+    }
+
+    public void setA3(String A3) {
+        this.A3 = A3;
+    }
+
+    private float A2;
+    
     public float getA2() {
         return A2;
     }
