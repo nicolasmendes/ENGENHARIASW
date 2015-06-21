@@ -35,5 +35,5 @@ public class B {
     public void setB2(float B2) {
         this.B2 = B2;
     }
-
+int a;
 }
