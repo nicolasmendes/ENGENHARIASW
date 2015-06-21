@@ -4,6 +4,17 @@ package engenhariasw;
 public class A {
     
     private int A1;
+    
+    private String Aprinc4;
+
+    public String getAprinc4() {
+        return Aprinc4;
+    }
+
+    public void setAprinc4(String Aprinc4) {
+        this.Aprinc4 = Aprinc4;
+    }
+
 
     public int getA1() {
         return A1;
